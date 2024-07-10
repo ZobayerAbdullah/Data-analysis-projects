@@ -1,5 +1,7 @@
 /*-------------- Covid 19 data exploration------------ */
 
+--Dataset link : https://ourworldindata.org/covid-deaths
+
 
  Select * 
  From covidDeaths
