@@ -1,6 +1,6 @@
 /*-------------- Covid 19 data exploration------------ */
 
---Dataset link : https://ourworldindata.org/covid-deaths
+-- Raw dataset : https://ourworldindata.org/covid-deaths
 
 
  Select * 
